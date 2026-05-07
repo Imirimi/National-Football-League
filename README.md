@@ -1,35 +1,29 @@
 <div align="center">
 
 <h1>НАРОДНЫЙ ФУТБОЛ</h1>
-<h3>ЭКОСИСТЕМА СПОРТА</h3>
+<p><b>ЭКОСИСТЕМА СПОРТА | ФЕДЕРАЛЬНАЯ ЛИГА ТАЛАНТОВ</b></p>
 
-<img src="1str.jpg" width="100%" style="border-radius: 10px;">
-
-<br><br>
-
-<table>
-  <tr>
-    <td align="center"><a href="captains.md">🛡 СОВЕТ КАПИТАНОВ</a></td>
-    <td align="center"><a href="invest.md">💰 ИНВЕСТ-ПЛАН</a></td>
-    <td align="center"><a href="smart-field.md">🏟 SMART-ПОЛЕ</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="posylka.md">📦 ПОСЫЛКА</a></td>
-    <td align="center" colspan="2"><a href="anketa.md">📝 АНКЕТА УЧАСТНИКА</a></td>
-  </tr>
-</table>
+<img src="1str.jpg" width="100%" style="border-radius: 8px;">
 
 <br>
 
-<hr>
+<p>
+  <a href="captains.md">🛡️ СОВЕТ КАПИТАНОВ</a> &nbsp; | &nbsp; 
+  <a href="invest.md">💰 ИНВЕСТ-ПЛАН</a> &nbsp; | &nbsp; 
+  <a href="smart-field.md">🏟️ SMART-ПОЛЕ</a> &nbsp; | &nbsp; 
+  <a href="posylka.md">📦 ПОСЫЛКА</a> &nbsp; | &nbsp; 
+  <a href="anketa.md">📝 АНКЕТА</a>
+</p>
 
-<h3>🏗 КОНЦЕПЦИЯ</h3>
-<p><b>"Народный футбол"</b> — это федеральная экосистема, объединяющая инфраструктуру, IT-платформу и социальный лифт для юных талантов.</p>
+<hr width="50%">
 
-<p>📍 <b>Локация старта:</b> Ялта, Крым.<br>
-🌍 <b>Масштаб:</b> Вся Россия.</p>
+<h3>🏗️ КОНЦЕПЦИЯ</h3>
+<p>Федеральная экосистема, объединяющая современную инфраструктуру,<br> 
+IT-платформу и социальный лифт для юных талантов.</p>
 
-<hr>
+<p>📍 <b>Ялта, Крым</b> &nbsp; 🌍 <b>Вся Россия</b></p>
+
+<hr width="50%">
 
 <i>Проект реализуется на принципах прозрачности и высоких технологий.</i>
 
