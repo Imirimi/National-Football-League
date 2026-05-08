@@ -1,63 +1,32 @@
 <div align="center">
-
 <h1>💰 ИНВЕСТИЦИОННЫЙ ПЛАН</h1>
-<p><b>ЭКОСИСТЕМА "НАРОДНЫЙ ФУТБОЛ" | ПИЛОТ: КРЫМ</b></p>
-
+<p><b>СТРАТЕГИЧЕСКОЕ ПАРТНЕРСТВО В ФОРМАТЕ БРИКС</b></p>
 <hr width="50%">
-
-<h3>1️⃣ КАПИТАЛЬНЫЕ ЗАТРАТЫ (CAPEX) — 11 ОБЪЕКТОВ</h3>
+<h3>📊 МЕДИА-АКТИВ И СОЦИАЛЬНЫЙ ЛИФТ</h3>
 <table border="1">
   <tr>
-    <th align="center">Статья расходов</th>
-    <th align="center">На 1 объект</th>
-    <th align="center">Итого (11 городов)</th>
-    <th align="center">Поставщики (РФ)</th>
+    <th align="center">Блок</th>
+    <th align="center">Инвестиция</th>
+    <th align="center">Миссия БРИКС</th>
   </tr>
   <tr>
-    <td><b>Smart-площадка "Под ключ"</b><br><small>Газон, ТВ-свет, основание</small></td>
-    <td align="center">30 млн ₽</td>
-    <td align="center"><b>330 млн ₽</b></td>
-    <td>Оптилон, Ферекс</td>
+    <td><b>11 Базовых площадок</b></td>
+    <td align="center">55 млн ₽</td>
+    <td>Создание инфраструктуры для отбора талантов в РФ.</td>
   </tr>
   <tr>
-    <td><b>IT-ядро и AI-аналитика</b><br><small>Камеры, сервера, Wi-Fi 6</small></td>
-    <td align="center">10 млн ₽</td>
-    <td align="center"><b>110 млн ₽</b></td>
-    <td>Trassir, ICL</td>
+    <td><b>Студия и Шоу-контент</b></td>
+    <td align="center">25 млн ₽</td>
+    <td>Трансляция ценностей БРИКС через спорт и истории успеха.</td>
   </tr>
   <tr>
-    <td><b>Smart-Box (Модуль)</b><br><small>Раздевалки, склад, IT-узел</small></td>
-    <td align="center">5 млн ₽</td>
-    <td align="center"><b>55 млн ₽</b></td>
-    <td>Наш Двор</td>
+    <td><b>Турнир "Вызов БРИКС"</b></td>
+    <td align="center">25 млн ₽</td>
+    <td>Международный матч-вызов: Россия vs Сборная БРИКС.</td>
   </tr>
 </table>
-
 <br>
-
-<h3>2️⃣ ЭКИПИРОВКА И ТЕХНОЛОГИИ ИГРОКА (EPTS)</h3>
-<table border="1">
-  <tr>
-    <th align="center">Компонент</th>
-    <th align="center">Стоимость ед.</th>
-    <th align="center">Назначение</th>
-  </tr>
-  <tr>
-    <td><b>Цифровая "Посылка игрока"</b></td>
-    <td align="center">45 000 ₽</td>
-    <td>GPS-трекер, датчики удара IMU, пульсометр, форма.</td>
-  </tr>
-  <tr>
-    <td><b>Цифровой паспорт</b></td>
-    <td align="center">Включено</td>
-    <td>Бессрочное хранение Big Data игрока в облаке Лиги.</td>
-  </tr>
-</table>
-
+<p><b>ИНСТРУМЕНТ:</b> Ваше НКО как оператор международных спортивных обменов и грантовых программ.</p>
 <hr width="50%">
-
-<p>
-  <a href="https://imirimi.github.io/National-Football-League/">🏠 ВЕРНУТЬСЯ НА ГЛАВНУЮ</a>
-</p>
-
+<p><a href="https://imirimi.github.io/National-Football-League/">🏠 ВЕРНУТЬСЯ НА ГЛАВНУЮ</a></p>
 </div>
