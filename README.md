@@ -1,34 +1,30 @@
 <div align="center">
 
-<h1>НАРОДНЫЙ ФУТБОЛ</h1>
-<p><b>ЭКОСИСТЕМА СПОРТА | ФЕДЕРАЛЬНАЯ ЛИГА ТАЛАНТОВ</b></p>
+<h1>🏆 НАРОДНЫЙ ФУТБОЛ</h1>
+<p><b>ЭКОСИСТЕМА ТАЛАНТОВ | ФЕДЕРАЛЬНАЯ ЛИГА</b></p>
 
-<img src="1str.jpg" width="100%" style="border-radius: 8px;">
+<img src="1str.jpg" width="100%" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
-<br>
+<br><br>
 
 <p>
-  <a href="captains.md">🛡️ СОВЕТ КАПИТАНОВ</a> &nbsp; | &nbsp; 
-  <a href="invest.md">💰 ИНВЕСТ-ПЛАН</a> &nbsp; | &nbsp; 
-  <a href="smart-field.md">🏟️ SMART-ПОЛЕ</a> &nbsp; | &nbsp; 
-  <a href="posylka.md">📦 ПОСЫЛКА</a> &nbsp; | &nbsp; 
-  <a href="anketa.md">📝 АНКЕТА</a>
+  <a href="https://github.com/imirimi/National-Football-League/blob/main/captains.md">🛡️ КАПИТАНЫ</a> &nbsp; | &nbsp; 
+  <a href="https://github.com/imirimi/National-Football-League/blob/main/invest.md">💰 ИНВЕСТ</a> &nbsp; | &nbsp; 
+  <a href="https://github.com/imirimi/National-Football-League/blob/main/smart-field.md">🏟️ ПОЛЕ</a> &nbsp; | &nbsp; 
+  <a href="https://github.com/imirimi/National-Football-League/blob/main/posylka.md">📦 ПОСЫЛКА</a>
 </p>
 
-<hr width="50%">
+<hr width="90%">
 
+<div align="left" style="max-width: 600px; padding: 10px;">
 <h3>🏗️ КОНЦЕПЦИЯ</h3>
-<p>Федеральная экосистема, объединяющая современную инфраструктуру,<br> 
-IT-платформу и социальный лифт для будущих звезд футбола.</p>
+<p>Единая цифровая среда для подготовки игроков высшего уровня. Инфраструктура + IT-аналитика + Наставничество Мудрецов.</p>
 
-<blockquote>
-<b>📊 ТЕХНОЛОГИЧЕСКИЙ СТАНДАРТ ИГРОКА:</b> Каждый участник Лиги в обязательном порядке обеспечивается персональной системой EPTS (Electronic Performance and Tracking Systems). Мы исключаем человеческий фактор — прогресс каждого игрока измеряется цифрами.
-</blockquote>
+<p>📊 <b>СТАНДАРТ EPTS:</b> Обязательный инструментальный контроль показателей каждого игрока через системы трекинга.</p>
+</div>
 
-<p>📍 <b>Ялта, Крым</b> &nbsp; 🌍 <b>Вся Россия</b></p>
+<hr width="90%">
 
-<hr width="50%">
-
-<p><a href="posylka.md">🚀 Узнать больше о цифровом комплекте игрока</a></p>
+<p>📍 <b>Ялта, Крым</b> | 🌍 <b>Россия</b></p>
 
 </div>
