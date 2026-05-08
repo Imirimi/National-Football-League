@@ -3,28 +3,30 @@
 <h1>🏆 НАРОДНЫЙ ФУТБОЛ</h1>
 <p><b>ЭКОСИСТЕМА ТАЛАНТОВ | ФЕДЕРАЛЬНАЯ ЛИГА</b></p>
 
-<img src="1str.jpg" width="100%" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+<img src="https://imirimi.github.io/National-Football-League/1str.jpg" width="100%" style="border-radius: 8px;">
 
-<br><br>
+<br>
 
 <p>
-  <a href="https://github.com/imirimi/National-Football-League/blob/main/captains.md">🛡️ КАПИТАНЫ</a> &nbsp; | &nbsp; 
-  <a href="https://github.com/imirimi/National-Football-League/blob/main/invest.md">💰 ИНВЕСТ</a> &nbsp; | &nbsp; 
-  <a href="https://github.com/imirimi/National-Football-League/blob/main/smart-field.md">🏟️ ПОЛЕ</a> &nbsp; | &nbsp; 
-  <a href="https://github.com/imirimi/National-Football-League/blob/main/posylka.md">📦 ПОСЫЛКА</a>
+  <a href="https://imirimi.github.io/National-Football-League/captains">🛡️ КАПИТАНЫ</a> &nbsp; | &nbsp; 
+  <a href="https://imirimi.github.io/National-Football-League/invest">💰 ИНВЕСТ</a> &nbsp; | &nbsp; 
+  <a href="https://imirimi.github.io/National-Football-League/smart-field">🏟️ ПОЛЕ</a> &nbsp; | &nbsp; 
+  <a href="https://imirimi.github.io/National-Football-League/posylka">📦 ПОСЫЛКА</a>
 </p>
 
-<hr width="90%">
+<hr width="50%">
 
-<div align="left" style="max-width: 600px; padding: 10px;">
 <h3>🏗️ КОНЦЕПЦИЯ</h3>
-<p>Единая цифровая среда для подготовки игроков высшего уровня. Инфраструктура + IT-аналитика + Наставничество Мудрецов.</p>
+<p align="left">
+Единая цифровая среда для подготовки игроков высшего уровня. Инфраструктура + IT-аналитика + Наставничество Мудрецов.
+</p>
 
-<p>📊 <b>СТАНДАРТ EPTS:</b> Обязательный инструментальный контроль показателей каждого игрока через системы трекинга.</p>
-</div>
+<blockquote>
+<b>📊 СТАНДАРТ EPTS:</b> Обязательный инструментальный контроль показателей каждого игрока через системы трекинга.
+</blockquote>
 
-<hr width="90%">
+<hr width="50%">
 
-<p>📍 <b>Ялта, Крым</b> | 🌍 <b>Россия</b></p>
+<p><a href="https://imirimi.github.io/National-Football-League/anketa">📝 СТАТЬ УЧАСТНИКОМ (АНКЕТА)</a></p>
 
 </div>
